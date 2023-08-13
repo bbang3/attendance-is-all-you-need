@@ -1,5 +1,5 @@
 # Attendance is All You Need
-Member : **황상민**, 김예랑, 김민성, 김성찬
+Member : [**황상민**](https://github.com/bbang3), [김민성](https://github.com/mingsung-k), [김예랑](https://github.com/01tilinfinity), [김성찬](https://github.com/deep-overflow)
 
 ## 주제 선정 배경
 
